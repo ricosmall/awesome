@@ -9,3 +9,9 @@ The goal is to create anything you want within 1 single html file. Practice your
 ### [2ality – JavaScript and more](https://2ality.com/index.html)
 
 To learn JavaScript in depth, make you proficient in JavaScript.
+
+## CSS
+
+### [Griddy](https://griddy.io/)
+
+Learn the CSS Grid!
